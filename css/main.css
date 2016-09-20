@@ -46,6 +46,7 @@ a {
 a:hover {
 	background-color: #ee5f3c;
 }
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -54,8 +55,14 @@ a:hover {
 	height: 0;
 	font-size: 0;
 }
+
 .fix {
 	display: block;
 	float: left;
 	text-align: left;
+}
+
+img {
+	height: 200px;
+	width: 150px;
 }
